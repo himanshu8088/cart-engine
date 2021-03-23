@@ -1,0 +1,9 @@
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\bin\Debug\netstandard2.0\CartEngine.deps.json
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\bin\Debug\netstandard2.0\CartEngine.dll
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\bin\Debug\netstandard2.0\CartEngine.pdb
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\obj\Debug\netstandard2.0\CartEngine.csprojAssemblyReference.cache
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\obj\Debug\netstandard2.0\CartEngine.AssemblyInfoInputs.cache
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\obj\Debug\netstandard2.0\CartEngine.AssemblyInfo.cs
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\obj\Debug\netstandard2.0\CartEngine.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\obj\Debug\netstandard2.0\CartEngine.dll
+C:\Users\Himanshu\Desktop\codespace\interview\cimpress\CimpressSystemDesign\CartEngine\obj\Debug\netstandard2.0\CartEngine.pdb

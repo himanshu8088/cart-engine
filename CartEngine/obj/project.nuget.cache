@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUkmpRzj9M3yj0aKRPpURuo4KnfxEp8jPKAfgAiVeA9aPe8wK9M6UGqfN8xZ4nEO0YsjewjGDPRQUd+XWvr/ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Himanshu\\Desktop\\codespace\\interview\\cimpress\\CimpressSystemDesign\\CartEngine\\CartEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Himanshu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Himanshu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
